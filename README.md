@@ -13,4 +13,4 @@ xxh +I xxh-plugin-fish-yourtitle+git+https://github.com/yourname/xxh-plugin-fish
 
 ## Examples
 
-🔎 [Search xxh plugins on Github](https://github.com/search?q=xxh-plugin-fish&type=Repositories) or [Bitbucket](https://bitbucket.org/repo/all?name=xxh-plugin-fish) or 💡 [Create xxh plugin](https://github.com/xxh/xxh-plugin-fish-example)
+🔎 [Search xxh plugins on Github](https://github.com/search?q=xxh-plugin-fish&type=Repositories) or [Bitbucket](https://bitbucket.org/repo/all?name=xxh-plugin-fish)
