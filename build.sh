@@ -44,6 +44,9 @@ function mkdirifnotfound(){
 #  do
 #    if [ -f "$found" ]; then
 #      founddirectory=$(dirname "$found")
+#      if [ "$founddirectory" == "." ]; then
+#        founddirectory=""
+#      fi
 #      mkdirifnotfound
 #      cp -r "$found" "$build_dir"
 #    else
